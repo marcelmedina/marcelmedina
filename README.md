@@ -2,10 +2,6 @@
 
 I am a Lead Developer, MCT, Azure specialist based in Auckland, New Zealand with over 20 years of experience in the tech industry. A playground enthusiast who is passionate about technology and loves to engage with the technical community to share knowledge and exchange experiences.
 
-In 2022 I started a Meetup group in New Zealand called Coding Night NZ, to enable developers with practical knowledge to excel and launch their careers.
-
-I also have a blog where I share my knowledge on .NET and Azure with the technical community.
-
 <hr>
 
 <p align="center">
